@@ -14,7 +14,7 @@ Avant chaque validation d'une compétence, il est nécessaire d'obtenir verbalem
 | 2: environnement         |            |                        |        |
 | 3: scripts               |            |                        |        |
 | 4: réseau                |            |                        |        |
-| 5: réalité virtuelle     |            |                        |        |
+| 5: réalité virtuelle     |            |                        |    X   |
 | 6: gestion de versions   |            |                        |        |
 
 | Compétences optionnelles | non-acquis | en cours d'acquisition | acquis |
