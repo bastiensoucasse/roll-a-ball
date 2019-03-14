@@ -30,9 +30,11 @@ Bastien Soucasse : Woaw (en vrai la même).
 * de ce module? 
    
    * intérêt des contenus
-   Bastien Soucasse : J'ai trouvé que ce cours était honnêtement le plus ludique du fait qu'il est
-   amusant et que l'on apprend très vite des choses qui nous plaisent et qui plus est sont utiles.
-   Thomas Henry : Magnifique. [larmes aux yeux] Je n'aurais pas pu dire mieux.
+   
+Bastien Soucasse : J'ai trouvé que ce cours était honnêtement le plus ludique du fait qu'il est
+amusant et que l'on apprend très vite des choses qui nous plaisent et qui plus est sont utiles.
+   
+Thomas Henry : Magnifique. [larmes aux yeux] Je n'aurais pas pu dire mieux.
    
    * difficulté ressentie et courbe de progression
    Thomas Anrie : Le cours est très abordable à ce niveau-là, on est bien guidé lors de la 
