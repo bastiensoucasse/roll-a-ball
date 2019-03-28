@@ -19,7 +19,7 @@ Avant chaque validation d'une compétence, il est nécessaire d'obtenir verbalem
 
 | Compétences optionnelles | non-acquis | en cours d'acquisition | acquis |
 |---                       |---         |---                     |---     |
-| 7: animation             |            |                        |        |
+| 7: animation             |            |                        |     x  |
 | 8: réalité mixte         |            |                        |        |
 | 9: sons                  |            |                        |        |
 
