@@ -13,9 +13,9 @@ Avant chaque validation d'une compétence, il est nécessaire d'obtenir verbalem
 | 1: scène 3d simple       |            |                        |    X   |
 | 2: environnement         |            |                        |    X   |
 | 3: scripts               |            |                        |    X   |
-| 4: réseau                |            |                        |        |
+| 4: réseau                |            |           x            |        |
 | 5: réalité virtuelle     |            |                        |    X   |
-| 6: gestion de versions   |            |           X            |        |
+| 6: gestion de versions   |            |                        |    x   |
 
 | Compétences optionnelles | non-acquis | en cours d'acquisition | acquis |
 |---                       |---         |---                     |---     |
